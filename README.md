@@ -11,4 +11,4 @@ And this specific repository contains documentation about the SCRUM Agile method
 <br/>
 &nbsp;
 
-[![SCRUM](http://dicer0.com/wp-content/uploads/2023/11/p_Scrum.png)](https://dicer0.com/#skills)
+[![Agile SCRUM](http://dicer0.com/wp-content/uploads/2023/11/p_Scrum.png)](https://dicer0.com/#skills)
